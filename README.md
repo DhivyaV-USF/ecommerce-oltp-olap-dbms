@@ -366,26 +366,10 @@ This project demonstrates proficiency in:
 - [ ] Add security with row-level access control
 - [ ] Integrate machine learning for predictive analytics
 
-## 📫 Contact
-
-**Your Name**  
-Master's Student - Analytics and Business Intelligence  
-University of South Florida  
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Course: ISM 6218 - Advanced Database Management
-- Institution: University of South Florida
-- Database Platform: Oracle 23ai
-- Diagram Tool: Draw.io
 
 ---
 
