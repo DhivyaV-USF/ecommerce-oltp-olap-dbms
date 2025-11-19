@@ -2,7 +2,7 @@
 
 A comprehensive database management project demonstrating OLTP and OLAP system design, implementation, and analytics for an e-commerce platform.
 
-![Database Architecture](https://img.shields.io/badge/Database-Oracle%2023ai-red)
+![Database Architecture](https://img.shields.io/badge/Database-Oracle%2026ai-red)
 ![Schema](https://img.shields.io/badge/Schema-3NF%20%7C%20Star-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-green)
 
