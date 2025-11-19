@@ -114,28 +114,26 @@ shopnow-ecommerce-database/
 │   └── ETL-Workflow.pdf
 │
 ├── sql-scripts/
-│   ├── 01-oltp-schema/
-│   │   ├── create-tables.sql
-│   │   ├── create-indexes.sql
-│   │   └── insert-sample-data.sql
-│   │
-│   ├── 02-oltp-queries/
-│   │   ├── customer-analytics.sql
-│   │   ├── product-performance.sql
-│   │   ├── order-verification.sql
-│   │   └── join-demonstrations.sql
-│   │
-│   ├── 03-olap-schema/
-│   │   ├── create-dimensions.sql
-│   │   ├── create-fact-table.sql
-│   │   └── etl-load-data.sql
-│   │
-│   └── 04-olap-analytics/
-│       ├── create-data-cubes.sql
-│       └── analytical-queries.sql
-│
-└── data/
-    └── sample-data-description.md
+   ├── 01-oltp-schema/
+   │   ├── create-tables.sql
+   │   ├── create-indexes.sql
+   │   └── insert-sample-data.sql
+   │
+   ├── 02-oltp-queries/
+   │   ├── customer-analytics.sql
+   │   ├── product-performance.sql
+   │   ├── order-verification.sql
+   │   └── join-demonstrations.sql
+   │
+   ├── 03-olap-schema/
+   │   ├── create-dimensions.sql
+   │   ├── create-fact-table.sql
+   │   └── etl-load-data.sql
+   │
+   └── 04-olap-analytics/
+       ├── create-data-cubes.sql
+       └── analytical-queries.sql
+
 ```
 
 ## 🚀 Installation & Setup
