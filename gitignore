@@ -1,0 +1,56 @@
+# .gitignore for Oracle Database Project
+
+# Oracle Database Files
+*.dmp
+*.log
+*.trc
+*.trm
+*.ora
+
+# SQL Developer
+*.jpr
+*.jws
+*.db
+sqldeveloper/
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~.nib
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
+# Private/Sensitive Information (if any)
+*_private*
+*_secret*
+credentials.txt
+passwords.txt
+
+# Large Data Files (optional - uncomment if needed)
+# *.csv
+# *.xlsx
+# *.dat
+
+# Documentation Build Files
+*.aux
+*.out
+*.toc
